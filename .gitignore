@@ -1,0 +1,5 @@
+# Ignore binary files
+__pycache__
+
+#Ignore sqlite files
+*sqlite3
